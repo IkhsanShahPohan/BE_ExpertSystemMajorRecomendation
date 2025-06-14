@@ -8,6 +8,14 @@ Pengguna akan diberikan **30 pertanyaan** dengan 5 pilihan jawaban:
 **Sangat Setuju, Setuju, Netral, Tidak Setuju, Sangat Tidak Setuju**.  
 Setelah menjawab semua pertanyaan, sistem akan memberikan rekomendasi jurusan berdasarkan kepribadian dominan pengguna.
 
+## 👥 Anggota Kelompok
+
+- **Ikhsan Shah Pohan (231402039)**
+- **Ari Gamaliel Manohan Silitonga (231402030)**
+- **Khairunissa Pohan (231402100)**
+- **Zahra Naziha (231402127)**
+- **Aldi Zaki Aulia (231402130)**
+
 > ⚠️ **PERINGATAN:**  
 > Sistem ini dibangun dengan arsitektur terpisah antara **Frontend (React)** dan **Backend (Flask)**.  
 > Untuk menjalankan sistem secara lengkap, silakan kunjungi repository **Frontend** melalui tautan berikut:  
@@ -21,7 +29,7 @@ Setelah menjawab semua pertanyaan, sistem akan memberikan rekomendasi jurusan be
 ### 1. Clone Repository
 
 ```bash
-git clone <url-repo-kamu>
+git clone https://github.com/IkhsanShahPohan/BE_ExpertSystemMajorRecomendation.git
 ```
 
 ---
